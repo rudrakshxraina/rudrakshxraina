@@ -1,30 +1,52 @@
-🌟 Hey, I'm Rudraksh Raina
+<div>
+
+# 🌟 Hey, I'm Rudraksh Raina
 
 A first-year college student exploring the world of development!
 
-📌 About Me
+</div>
 
-🎓 First-year BCA student
 
-💡 Passionate about software development & web development
 
-🚀 Love building projects that help me learn faster
+## 📌 About Me
 
-🌱 Currently learning advanced Java Script concepts and backend basics
+🎓 First-year **BCA student**  
+💡 Passionate about **software development** & **web development**  
+🚀 Love building projects that help me learn faster  
+🌱 Currently learning **advanced JavaScript** & backend basics  
+🔥 Trying to get better every single day  
 
-🔥 Trying to get better every single day
 
-🛠️ Tech Stack & Tools
-💻 Software Development
-<p> <img src="https://skillicons.dev/icons?i=c" /> </p>
-🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,php" /> </p>
-📫 Contact Me
 
-📧 Email: rudraksh.raina.official@gmail.com
+## 🛠️ Tech Stack & Tools  
 
+### 💻 Software Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=c" />
+</p>
+
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=php" />
+</p>
+
+<br>
+
+
+
+## 📫 Contact Me  
+
+📧 Email: **rudraksh.raina.official@gmail.com**  
 💬 Always open to learning, collaborating, or just talking tech!
 
-⭐ Fun Quote
+<br>
 
-"With great power comes great responsibility"
+
+
+## ⭐ Fun Quote  
+
+*"With great power comes great responsibility"*
+
