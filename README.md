@@ -1,43 +1,31 @@
-<div align="center">
+🌟 Hey, I'm Rudraksh Raina
 
-# 🌟 Hey, I'm **Rudraksh Raina**
-*A first-year college student exploring the world of development!*
+A first-year college student exploring the world of development!
 
----
+📌 About Me
 
-## 📌 About Me  
-🎓 First-year **Computer Science** student  
-💡 Passionate about **web development** & **software development**  
-🚀 Building projects to sharpen my skills  
-🌱 Learning advanced JavaScript & backend concepts  
-🔥 Always curious, always improving  
+🎓 First-year BCA student
 
----
+💡 Passionate about software development & web development
 
-## 🛠️ Tech Stack
+🚀 Love building projects that help me learn faster
 
-### 🌐 Web Development  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55px" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55px" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55px" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55px" style="margin-right:15px;"/>
-  <img src="https://icon-library.com/images/xml-icon/xml-icon-7.jpg" width="55px" />
-</p>
+🌱 Currently learning advanced Java Script concepts and backend basics
 
-### 💻 Programming Languages  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55px"/>
-</p>
+🔥 Trying to get better every single day
 
----
+🛠️ Tech Stack & Tools
+💻 Software Development
+<p> <img src="https://skillicons.dev/icons?i=c" /> </p>
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,php" /> </p>
+🧩 Other Skills
+<p> <img src="https://skillicons.dev/icons?i=xml" /> </p>
+📫 Contact Me
 
-## 📫 Contact Me  
-📧 **rudraksh.raina.official@gmail.com**
+📧 Email: rudraksh.raina.official@gmail.com
+💬 Always open to learning, collaborating, or just talking tech!
 
----
+⭐ Fun Quote
 
-## ⭐ Fun Quote  
-*"Every expert was once a beginner. Keep going!"*
-
-</div>
+"With great power comes great responsibility"
