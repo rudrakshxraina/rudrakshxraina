@@ -19,8 +19,6 @@ A first-year college student exploring the world of development!
 <p> <img src="https://skillicons.dev/icons?i=c" /> </p>
 🌐 Web Development
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,php" /> </p>
-🧩 Other Skills
-<p> <img src="https://skillicons.dev/icons?i=xml" /> </p>
 📫 Contact Me
 
 📧 Email: rudraksh.raina.official@gmail.com
